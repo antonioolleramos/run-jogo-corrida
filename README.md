@@ -64,4 +64,4 @@ O repositório não exige banco de dados, servidor ou contas. Os arquivos são c
 
 **Antes de publicar publicamente:** confirme se os sprites podem ser redistribuídos. Não inclua o MP3 comercial no repositório, em seus commits ou nos Releases sem autorização.
 
-> **Esta cópia pessoal inclui o MP3 original preservado, apenas para uso local. Não envie este ZIP para um repositório público.**
+> **Esta edição para GitHub não redistribui o MP3 comercial.** Se você tem uma cópia local da música, basta colocá-la ao lado de `RUN!.py` para ouvi-la na sua máquina.
